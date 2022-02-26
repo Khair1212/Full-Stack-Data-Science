@@ -1,0 +1,16 @@
+2022-02-27 02:02:47,843 INFO Connection Successful!
+2022-02-27 02:02:50,195 INFO ineuronDatabase is already there!
+2022-02-27 02:02:50,195 INFO Succesfully created the database!
+2022-02-27 02:02:52,247 INFO Successfully created the collection!
+2022-02-27 02:02:54,260 INFO Reading data from local system...
+2022-02-27 02:02:58,664 INFO Bulk insertion successful!
+2022-02-27 02:03:00,727 INFO  insertion successful!
+2022-02-27 02:03:02,793 INFO All data insertion successful!
+2022-02-27 02:03:04,861 INFO Found the first document!
+2022-02-27 02:03:06,873 INFO Fetched the filtered documents
+2022-02-27 02:03:08,936 INFO Fetched all the documents
+2022-02-27 02:03:11,061 INFO Delete the first document!
+2022-02-27 02:03:13,137 INFO Deleted the filtered documents
+2022-02-27 02:03:15,208 INFO Successfully updated!
+2022-02-27 02:03:17,303 INFO Successfully updated!
+2022-02-27 02:03:19,372 INFO Collection dropped!
