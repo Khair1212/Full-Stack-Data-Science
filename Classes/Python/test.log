@@ -1,0 +1,7 @@
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "<ipython-input-7-fd7c1b5a248b>", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
